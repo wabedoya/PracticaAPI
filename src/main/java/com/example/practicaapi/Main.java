@@ -16,6 +16,7 @@ public class Main {
                     opc_menu = i;
                 }
             }
+            // validacion de la opcion que se realizo por consola
             switch (opc_menu){
                 case 0:
                     GatosService.verGatos();
