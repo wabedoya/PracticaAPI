@@ -1,7 +1,7 @@
 package com.example.practicaapi;
 
 import javax.swing.*;
-
+// Clase principal
 public class Main {
     public static void main(String[] args) {
         int opc_menu = -1;
