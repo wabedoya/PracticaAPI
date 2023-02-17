@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9bcb331-26fc-4e95-a6f8-4ff3519c4b80" name="Changes" comment="Practica API" />
+    <list default="true" id="e9bcb331-26fc-4e95-a6f8-4ff3519c4b80" name="Changes" comment="Practica API">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/practicaapi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/practicaapi/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -5,11 +5,11 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
         int opc_menu = -1;
-        String[]botones = {"1. ver gatos", "2. salir"};
+        String[]botones = {"1. ver Gatos", "2. salir"};
         do {
             //MENU PRINCIPAL
-            String option = (String) JOptionPane.showInputDialog(null,"gatitos java","MENU PRINCIPAL",
-                    JOptionPane.INFORMATION_MESSAGE,null,botones,botones[0]);
+            String option = (String) JOptionPane.showInputDialog(null,"Gatitos java","MENU PRINCIPAL PRIMERA API" +
+                            "",JOptionPane.INFORMATION_MESSAGE,null,botones,botones[0]);
             // Validamos opcion del usuario
             for (int i = 0; i < botones.length; i++) {
                 if (option.equals(botones[i])){
