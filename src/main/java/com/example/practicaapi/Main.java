@@ -8,8 +8,8 @@ public class Main {
         String[]botones = {"1. ver Gatos", "2. salir"};
         do {
             //MENU PRINCIPAL
-            String option = (String) JOptionPane.showInputDialog(null,"Gatitos java","MENU PRINCIPAL PRIMERA API" +
-                            "",JOptionPane.INFORMATION_MESSAGE,null,botones,botones[0]);
+            String option = (String) JOptionPane.showInputDialog(null,"Gatitos java","MENU PRINCIPAL PRIMERA API"
+                            ,JOptionPane.INFORMATION_MESSAGE,null,botones,botones[0]);
             // Validamos opcion del usuario
             for (int i = 0; i < botones.length; i++) {
                 if (option.equals(botones[i])){
